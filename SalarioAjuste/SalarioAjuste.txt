@@ -1,0 +1,22 @@
+algoritmo "SalarioAjuste"
+var
+   nomeFuncionario = REAL
+   salario = REAL
+   salarioAjustado = REAL
+   
+inicio
+
+      ESCREVAL ("Ajuste salarial")
+      ESCREVAL ("Olá funcionário, qual seu nome?")
+      var nomeFuncionario = LEIAL
+      ESCREVAL (nomefuncionario "qual seu salario?")
+      var salario = LEIAL
+
+      SE salario < 500 ENTAO
+        var salarioAjustado = salario + salario * 0.3
+        ESCREVAL (nomeFuncionario "seu salario reajustado é de: " salarioAjustado)
+      SENAO 
+        ESCREVAL (nomeFuncionario "você não tem direito a aumento")
+        FIMSE
+      
+fimalgoritmo

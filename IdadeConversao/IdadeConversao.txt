@@ -1,0 +1,21 @@
+algoritmo "IdadeCoversao"
+var
+   
+   idadeAnos = REAL
+   idadeMeses = REAL
+   idadeDias = REAL
+   idadeHoras = REAL
+   idadeMinutos = REAL
+inicio
+
+      ESCREVAL ("Convertor Idade")
+      ESCREVAL ("Qual sua idade em anos?")
+      var idadeAnos = LEIAL
+      var idadeMeses = idadeAnos * 12
+      var idadeDias = idadeMeses * 30
+      var idadeHoras = idadeDias * 24
+      var idadeMinutos = idadeHoras * 60
+
+      ESCREVAL (""Sua idade em anos é: " + idadeAnos + ", em meses é: " + idadeMeses + ", em dias é: " + idadeDias + ", em horas é: " + idadeHoras + "e em minutos é: " + idadeMinutos")
+
+fimalgoritmo

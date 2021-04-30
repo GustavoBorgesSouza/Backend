@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\ref\SalarioAjuste.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\bin\Debug\net5.0\SalarioAjuste.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\ref\SalarioAjuste.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\SalarioAjuste\obj\Debug\net5.0\SalarioAjuste.genruntimeconfig.cache

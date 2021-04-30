@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\ref\IdadeConversao.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\bin\Debug\net5.0\IdadeConversao.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\ref\IdadeConversao.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\IdadeConversao\obj\Debug\net5.0\IdadeConversao.genruntimeconfig.cache

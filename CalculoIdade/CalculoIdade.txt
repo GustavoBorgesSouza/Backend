@@ -1,0 +1,21 @@
+algoritmo "CalculoIdade"
+var
+   anoAtual = REAL
+   anoNascimento = REAL
+   idade = REAL
+   idadeSemana = REAL
+inicio
+
+      ESCREVAL ("Calculo Idade")
+      ESCREVAL ("Qual o ano atual?")
+      var anoAtual = LEIAL
+      // var anoAtual = Calendario.Agora.Ano ;
+      ESCREVAL ("Em que ano você nasceu?")
+      var anoNascimento = LEIAL
+      var idade = anoAtual - anoNascimento
+      ESCREVAL ("Sua idade é: " idade)
+      
+      var idadeSemana = idade * 52.143
+      ESCREVAL ("Sua idade em semanas é aproximadamente: " idadeSemana)
+
+fimalgoritmo

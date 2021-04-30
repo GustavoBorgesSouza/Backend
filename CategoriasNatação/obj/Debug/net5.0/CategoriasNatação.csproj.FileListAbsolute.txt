@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\ref\CategoriasNatação.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\bin\Debug\net5.0\CategoriasNatação.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\ref\CategoriasNatação.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\CategoriasNatação\obj\Debug\net5.0\CategoriasNatação.genruntimeconfig.cache

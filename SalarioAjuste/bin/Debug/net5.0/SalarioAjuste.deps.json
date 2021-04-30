@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SalarioAjuste/1.0.0": {
+        "runtime": {
+          "SalarioAjuste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalarioAjuste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

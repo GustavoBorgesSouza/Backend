@@ -1,0 +1,119 @@
+algoritmo "NotaValida"
+
+programa {
+	
+    booleana nomeValido = falso
+    string nome
+    booleana idadeValida = falso
+    int idade
+    booleana salarioValido = falso
+    double salarioValido
+    booleana estadocivilValido = falso
+    string estadocivil
+	
+	funcao inicio() 
+    {
+        ESCREVAL("Validação de suas informações")
+
+        booleana nomeValido = falso
+        FAÇA
+        {
+            ESCREVAL("Qual seu nome?")
+            string nome = LEIAL
+
+            SE String.ÉNulaOuVazia(nome)
+            {
+                nomeValido = falso
+                ESCREVAL("Nome inválido! \n Digite um nome válido")
+            } SENAO
+            {
+                nomeValido = Verdadeiro
+            }
+            
+        } ENQUANTO nomeValido for falso
+
+        ESCREVAL("Esse nome é válido")
+
+        booleana idadeValida = falso
+        FAÇA
+        {
+            ESCREVAL("Qual sua idade?")
+            int idade = int.Parse(LEIAL())
+
+            SE idade maior que 0 E idade menor ou igual 150
+            {
+                idadeValida = Verdadeiro
+            }
+            SENAO
+            {
+                ESCREVAL("Idade inválida! Digite uma idade válida")
+            }
+
+        } ENQUANTO idadeValida for falso
+
+        ESCREVAL("Essa é uma idade válida")
+
+        booleana salarioValido = falso
+        FAÇA
+        {
+            ESCREVAL("Qual seu salário?")
+            double salário = double.Parse(LEIAL)
+
+            SE salario maior que 0
+            {
+                salarioValido = Verdadeiro
+            }
+            SENAO
+            {
+                ESCREVAL("Salário inválido Digite um salário válido")
+            }
+
+        } ENQUANTO salarioValido for falso
+
+        ESCREVAL("Esse salário é válido")
+
+        booleana estadocivil = falso
+        FAÇA
+        {
+            ESCREVAL $@" Qual seu estado Civil?
+            Digite:
+            s para solteiro(a)
+            c para casado(a)
+            d para divorciado(a)
+            v para viuvo(a)")
+
+            string estadocivil = LEIAL
+
+            ESCOLHA estadocivil
+            {
+                CASO "s":
+                estadocivilValido = Verdadeiro
+                ESCREVAL("Você é solteiro(a)")
+                PARE
+
+                CASO "c":
+                estadocivilValido = Verdadeiro
+                ESCREVAL("Você é casado(a)")
+                PARE
+
+                CASO "d":
+                estadocivilValido = Verdadeiro
+                ESCREVAL("Você é divorciado(a)")
+                PARE
+
+                CASO "v":
+                estadocivilValido = Verdadeiro
+                ESCREVAL("Você é viuvo(a)")
+                PARE
+
+                CASO CONTRÁRIO:
+                ESCREVAL("Esse não é um estado civil válido Digite um que seja válido")
+
+            }
+        } ENQUANTO estadocivilValido for falso
+
+        ESCREVAL("Seu estado civil é válido \n Você está com tudo validado")
+        ESCREVAL("Fim do sistema")
+			
+	}
+}

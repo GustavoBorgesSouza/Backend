@@ -1,0 +1,42 @@
+algoritmo "NomeSenhaDiferentes"
+
+programa {
+	
+    booleana senhaValida
+	string nomeUser
+    var senha
+    int tamanho senha
+	
+	funcao inicio() 
+    {
+        ESCREVAL("Verificação nome e senha de usuário")
+
+        ESCREVAL("Olá, qual seu Nome de usuário?")
+        string nomeUser = LEIAL
+        ESCREVAL("Qual é sua senha? (minímo 4 caracteres)")
+        var senha = LEIAL.paraString
+        int tamanhosenha = senha.Comprimento
+
+        booleana senhaValida = Verdadeiro
+
+        SE senha igual nomeUser OU tamanhosenha menor que 4
+        {
+            senhaValida = falsa
+        }
+
+        ENQUANTO senhaValida for falsa
+        {
+            ESCREVAL("Essa senha não é válida \n Digite uma senha válida(diferente do username e com no mínimo 4 caracteres)")
+            senha = LEIAL.parastring
+            tamanho  = senha.Comprimento
+
+            SE senha diferente nomeUser E tamanhosenha maior ou igual a 4
+            {
+                senhaValida = Verdadeiro
+            }
+        }
+
+        ESCREVAL("Essa senha é válida! \n Cadastro com sucesso")
+        ESCREVAL("Fim do sistema")
+	}
+}

@@ -1,0 +1,34 @@
+algoritmo "NotaValida"
+
+programa {
+	
+    booleana notaValida
+	inteiro nota
+	
+	funcao inicio() 
+    {
+        ESCREVAL("Validação de notas entre 0 a 10 \n")
+
+        bool notaValida = false;
+
+        FAÇA
+        {
+            ESCREVAL("Qual é a nota que vc recebeu?")
+            int nota = LEIAL
+
+            SE nota maior que 0 e nota menor ou igual a 10
+            {
+                notaValida = Verdadeiro
+                ESCREVAL("Sua nota é valida e é igual a: " + nota + "\n")
+            } SENAO
+            {
+                notaValida = falsa
+                ESCREVAL("Essa não é uma nota válida! \n Digite uma nota de 0 a 10 \n")
+            }
+            
+        } ENQUANTO notaValida for falsa
+
+        ESCREVAL("Fim do sistema")
+			
+	}
+}

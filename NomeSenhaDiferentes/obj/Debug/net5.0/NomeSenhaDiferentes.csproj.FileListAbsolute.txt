@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\ref\NomeSenhaDiferentes.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\bin\Debug\net5.0\NomeSenhaDiferentes.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\ref\NomeSenhaDiferentes.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NomeSenhaDiferentes\obj\Debug\net5.0\NomeSenhaDiferentes.genruntimeconfig.cache

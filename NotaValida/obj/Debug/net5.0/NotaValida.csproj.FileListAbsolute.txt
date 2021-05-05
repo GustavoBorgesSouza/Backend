@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\ref\NotaValida.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\bin\Debug\net5.0\NotaValida.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\ref\NotaValida.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\NotaValida\obj\Debug\net5.0\NotaValida.genruntimeconfig.cache

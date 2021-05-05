@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\ref\AlgarismosRomanos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\bin\Debug\net5.0\AlgarismosRomanos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\ref\AlgarismosRomanos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\AlgarismosRomanos\obj\Debug\net5.0\AlgarismosRomanos.genruntimeconfig.cache

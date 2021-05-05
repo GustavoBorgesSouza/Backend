@@ -16,6 +16,6 @@ inicio
       var idadeHoras = idadeDias * 24
       var idadeMinutos = idadeHoras * 60
 
-      ESCREVAL (""Sua idade em anos é: " + idadeAnos + ", em meses é: " + idadeMeses + ", em dias é: " + idadeDias + ", em horas é: " + idadeHoras + "e em minutos é: " + idadeMinutos")
+      ESCREVAL ("Sua idade em anos é: " + idadeAnos + ", em meses é: " + idadeMeses + ", em dias é: " + idadeDias + ", em horas é: " + idadeHoras + "e em minutos é: " + idadeMinutos")
 
 fimalgoritmo

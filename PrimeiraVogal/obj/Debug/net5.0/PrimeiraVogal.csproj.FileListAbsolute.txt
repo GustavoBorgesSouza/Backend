@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\ref\PrimeiraVogal.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\bin\Debug\net5.0\PrimeiraVogal.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\ref\PrimeiraVogal.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PrimeiraVogal\obj\Debug\net5.0\PrimeiraVogal.genruntimeconfig.cache

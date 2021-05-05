@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\ref\Validaçãoinformações.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\bin\Debug\net5.0\Validaçãoinformações.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\ref\Validaçãoinformações.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Validaçãoinformações\obj\Debug\net5.0\Validaçãoinformações.genruntimeconfig.cache

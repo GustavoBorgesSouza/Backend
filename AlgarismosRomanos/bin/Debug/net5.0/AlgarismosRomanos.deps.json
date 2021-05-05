@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlgarismosRomanos/1.0.0": {
+        "runtime": {
+          "AlgarismosRomanos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgarismosRomanos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

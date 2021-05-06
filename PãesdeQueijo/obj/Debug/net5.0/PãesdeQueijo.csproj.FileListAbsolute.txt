@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\ref\PãesdeQueijo.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\bin\Debug\net5.0\PãesdeQueijo.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\ref\PãesdeQueijo.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\PãesdeQueijo\obj\Debug\net5.0\PãesdeQueijo.genruntimeconfig.cache

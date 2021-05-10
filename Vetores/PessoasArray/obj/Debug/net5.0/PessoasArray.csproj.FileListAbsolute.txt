@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\ref\PessoasArray.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\bin\Debug\net5.0\PessoasArray.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\ref\PessoasArray.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\PessoasArray\obj\Debug\net5.0\PessoasArray.genruntimeconfig.cache

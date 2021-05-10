@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\ref\InveraoNumeros.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\ref\InveraoNumeros.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.genruntimeconfig.cache

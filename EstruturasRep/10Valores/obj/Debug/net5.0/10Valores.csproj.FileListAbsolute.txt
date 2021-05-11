@@ -14,3 +14,19 @@ C:\Users\gusta\OneDrive\Área de Trabalho\backend\EstruturasRep\10Valores\obj\De
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\EstruturasRep\10Valores\obj\Debug\net5.0\ref\10Valores.dll
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.genruntimeconfig.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.exe
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.deps.json
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\ref\10Valores.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\bin\Debug\net5.0\10Valores.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\ref\10Valores.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\EstruturasRep\10Valores\obj\Debug\net5.0\10Valores.genruntimeconfig.cache

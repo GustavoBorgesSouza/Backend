@@ -6,12 +6,17 @@ namespace Produtos
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkCyan;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+
+
             int[] produtos = null;
             Console.WriteLine("Quantas são as opções de produtos disponíveis?");
             int opcoesProdutos = int.Parse(Console.ReadLine());
             produtos = new int[opcoesProdutos];
             string[] nomeProdutos = null;
             nomeProdutos = new string[opcoesProdutos];
+
 
             for (var i = 0; i <= (opcoesProdutos -1); i++)
             {

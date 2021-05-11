@@ -10,6 +10,9 @@ namespace Tabuada
 // Exemplo: tabuada do 1, tabuada do 2, etc... Dica: utilize um laço dentro do outro.
             Console.WriteLine("Tabuada \n");
 
+            Console.BackgroundColor = ConsoleColor.DarkMagenta;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
             for (var i = 1; i <= 10; i++)
             {
                 Console.WriteLine($"\n Tabuada do {i} \n");

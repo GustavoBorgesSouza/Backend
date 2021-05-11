@@ -14,3 +14,19 @@ C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Voto\obj\Debug\ne
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Voto\obj\Debug\net5.0\ref\Voto.dll
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Voto\obj\Debug\net5.0\Voto.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Voto\obj\Debug\net5.0\Voto.genruntimeconfig.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.exe
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.deps.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\ref\Voto.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\bin\Debug\net5.0\Voto.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\ref\Voto.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Voto\obj\Debug\net5.0\Voto.genruntimeconfig.cache

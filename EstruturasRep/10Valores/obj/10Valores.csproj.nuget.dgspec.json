@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\EstruturasRep\\10Valores\\10Valores.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\EstruturasRep\\10Valores\\10Valores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\EstruturasRep\\10Valores\\10Valores.csproj": {
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\EstruturasRep\\10Valores\\10Valores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\EstruturasRep\\10Valores\\10Valores.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\EstruturasRep\\10Valores\\10Valores.csproj",
         "projectName": "10Valores",
-        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\EstruturasRep\\10Valores\\10Valores.csproj",
-        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\EstruturasRep\\10Valores\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\EstruturasRep\\10Valores\\10Valores.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\EstruturasRep\\10Valores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

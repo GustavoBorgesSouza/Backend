@@ -22,15 +22,15 @@ namespace Produtos
 
                 if (quantidade <= 5)
                 {
-                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era {total} e com desconto ficou {Desconto2(total)}");
+                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era R${(total).ToString("N2")} e com desconto ficou R${(Desconto2(total)).ToString("N2")}");
                 }
                 else if (quantidade > 5 && quantidade <= 10)
                 {
-                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era {total} e com desconto ficou {Desconto3(total)}");
+                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era R${(total).ToString("N2")} e com desconto ficou R${(Desconto3(total)).ToString("N2")}");
                 } 
                 else
                 {
-                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era {total} e com desconto ficou {Desconto5(total)}");
+                    Console.WriteLine($"Você está levando {quantidade} {produto} que custa {valorUni} por unidade, o total original era R${(total).ToString("N2")} e com desconto ficou R${(Desconto5(total)).ToString("N2")}");
                 }
 
                 Console.WriteLine("\n Você fazer outra compra? (sim/nao)");

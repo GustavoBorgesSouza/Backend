@@ -8,9 +8,9 @@ namespace InveraoNumeros
         {
             Console.WriteLine("Inversão ordem 15 números \n");
 
-            int[] valores = new int [15]; 
+            int[] valores = new int [3]; 
 
-            for (var i = 0; i < 15; i++)
+            for (var i = 0; i < valores.Length; i++)
             {
                 Console.Write($"Digite o {i +1} valor: ");
                 valores[i] = int.Parse(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace InveraoNumeros
 
             Console.WriteLine("\n Aqui estão os valores em ordem inversa \n");
             
-            for (var i = 14; i >= 0; i--)
+            for (var i = (valores.Length - 1); i >= 0; i--)
             {
                 Console.WriteLine(valores[i]);
             }

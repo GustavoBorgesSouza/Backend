@@ -11,11 +11,10 @@ namespace _10Valores
             Console.WriteLine("Leitura de valores e amostra \n");
             double[] valores = new double [10]; 
 
-            for (var i = 0; i < 10; i++)
+            for (var i = 0; i < valores.Length; i++)
             {
-                Console.Write($"Digite o {i +1} valor: ");
-                valores[i] = double.Parse(Console.ReadLine());
-                
+                Console.Write($"Digite o {i + 1} valor: ");
+                valores[i] = double.Parse(Console.ReadLine());             
             }
 
             Array.Sort(valores);

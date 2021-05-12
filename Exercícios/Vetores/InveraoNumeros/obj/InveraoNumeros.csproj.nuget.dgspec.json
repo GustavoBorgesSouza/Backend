@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj": {
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj",
         "projectName": "InveraoNumeros",
-        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj",
-        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\InveraoNumeros\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\InveraoNumeros\\InveraoNumeros.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\InveraoNumeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

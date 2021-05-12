@@ -14,3 +14,19 @@ C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Deb
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\ref\InveraoNumeros.dll
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.genruntimeconfig.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.exe
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.deps.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\ref\InveraoNumeros.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\bin\Debug\net5.0\InveraoNumeros.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\ref\InveraoNumeros.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Vetores\InveraoNumeros\obj\Debug\net5.0\InveraoNumeros.genruntimeconfig.cache

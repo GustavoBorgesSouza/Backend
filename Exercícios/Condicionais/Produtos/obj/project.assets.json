@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gusta\\.nuget\\packages\\": {}
+    "C:\\Users\\dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Condicionais\\Produtos\\Produtos.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Condicionais\\Produtos\\Produtos.csproj",
       "projectName": "Produtos",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Condicionais\\Produtos\\Produtos.csproj",
-      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Condicionais\\Produtos\\obj\\",
+      "projectPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Condicionais\\Produtos\\Produtos.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Condicionais\\Produtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

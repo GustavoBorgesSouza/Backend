@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\PessoasArray\\PessoasArray.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\PessoasArray\\PessoasArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\PessoasArray\\PessoasArray.csproj": {
+    "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\PessoasArray\\PessoasArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\PessoasArray\\PessoasArray.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\PessoasArray\\PessoasArray.csproj",
         "projectName": "PessoasArray",
-        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\PessoasArray\\PessoasArray.csproj",
-        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\backend\\Vetores\\PessoasArray\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\PessoasArray\\PessoasArray.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Exercicios-Csharp\\Vetores\\PessoasArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -14,3 +14,19 @@ C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Combustível\obj\
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Combustível\obj\Debug\net5.0\ref\Combustível.dll
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Combustível\obj\Debug\net5.0\Combustível.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\backend\Condicionais\Combustível\obj\Debug\net5.0\Combustível.genruntimeconfig.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.exe
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.deps.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\ref\Combustível.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\bin\Debug\net5.0\Combustível.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\ref\Combustível.dll
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.pdb
+C:\Users\dev\Desktop\Exercicios-Csharp\Condicionais\Combustível\obj\Debug\net5.0\Combustível.genruntimeconfig.cache

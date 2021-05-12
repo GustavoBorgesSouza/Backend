@@ -30,3 +30,19 @@ C:\Users\dev\Desktop\Exercicios-Csharp\Produtos\obj\Debug\net5.0\Produtos.dll
 C:\Users\dev\Desktop\Exercicios-Csharp\Produtos\obj\Debug\net5.0\ref\Produtos.dll
 C:\Users\dev\Desktop\Exercicios-Csharp\Produtos\obj\Debug\net5.0\Produtos.pdb
 C:\Users\dev\Desktop\Exercicios-Csharp\Produtos\obj\Debug\net5.0\Produtos.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\ref\Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\bin\Debug\net5.0\Produtos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\ref\Produtos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Exercícios\Produtos\obj\Debug\net5.0\Produtos.genruntimeconfig.cache

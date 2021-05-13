@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\ref\SistemaProdutos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\bin\Debug\net5.0\SistemaProdutos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\ref\SistemaProdutos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\Projetos\SistemaProdutos\obj\Debug\net5.0\SistemaProdutos.genruntimeconfig.cache

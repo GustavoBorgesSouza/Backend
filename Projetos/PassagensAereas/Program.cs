@@ -113,6 +113,7 @@ namespace PassagensAereas
                         break;
 
                     case "2":
+                        Console.Clear();
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         int c = 0;
                         Console.WriteLine("Aqui está a listagem de passagens: \n");

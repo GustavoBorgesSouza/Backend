@@ -8,19 +8,22 @@ namespace SistemaProdutos
         {
             Console.WriteLine("Sistema de produtos \n");
 
-            int tamanhoArray = 10;
-            string[] nomeProdutos = new string[tamanhoArray];
-            double[] precoProdutos = new double[tamanhoArray];
-            bool[] promocaoProdutos = new bool[tamanhoArray];
+            Console.WriteLine("Quantos produtos vc quer cadastrar no total?");
+            int tamanhoArray = int.Parse(Console.ReadLine());
 
             int i = 0;
             bool continuarSistema = true;
             string opcao;
             string cadastrarMais;
+            string[] nomeProdutos = new string[tamanhoArray];
+            double[] precoProdutos = new double[tamanhoArray];
+            bool[] promocaoProdutos = new bool[tamanhoArray];
+
 
             do
             {
-                MostrarMenu();
+
+                MostrarMenu(tamanhoArray);
                 Console.ForegroundColor = ConsoleColor.White;
                 opcao = Console.ReadLine();
 
@@ -44,13 +47,24 @@ namespace SistemaProdutos
                     }
                         break;
 
+                    case "3":
+                        Console.WriteLine("Quantos espaços vc quer adicionar?");
+                        int adicionar = int.Parse(Console.ReadLine());
+                        tamanhoArray = tamanhoArray + adicionar;
+                        Array.Resize(ref nomeProdutos, nomeProdutos.Length + adicionar);
+                        Array.Resize(ref precoProdutos, precoProdutos.Length + adicionar);
+                        Array.Resize(ref promocaoProdutos, promocaoProdutos.Length + adicionar);
+                        break;
+
                     case "0":
                         continuarSistema = false;
                         Console.WriteLine("Ok, Estamos saindo do sistema, até a próxima :)");
                         break;
 
                     default:
+                        Console.BackgroundColor = ConsoleColor.Red;
                         Console.WriteLine("Essa não é uma das opções validas, digite uma válida!");
+                        Console.BackgroundColor = ConsoleColor.Black;
                         break;
                 }
                 
@@ -58,14 +72,15 @@ namespace SistemaProdutos
 
         }
 
-        static void MostrarMenu(){
+        static void MostrarMenu(int tamanhoArray){
 
             Console.ForegroundColor = ConsoleColor.DarkCyan;
                 Console.BackgroundColor = ConsoleColor.Black;
-                Console.WriteLine($@"O que você precisa fazer?           
+                Console.WriteLine($@"Sua lista tem {tamanhoArray} de espaços, O que você precisa fazer?           
             Menu:
             1 - Cadastrar produtos
             2 - Listar Produtos
+            3 - Adicionar espaços na lista
             0 - Sair");
         }
 
@@ -91,15 +106,18 @@ namespace SistemaProdutos
 
         static void ListarProdutos(string[] nomeProdutos, double[] precoProdutos, bool[] promocaoProdutos, int c){
             Console.ForegroundColor = ConsoleColor.Yellow;
+            string classificar;
+            classificar = promocaoProdutos[c] ? "Sim" : "Não";
+
             Console.WriteLine($@"Informações produto {c + 1}:
             Nome: {nomeProdutos[c]}
-            Preço: {precoProdutos[c]}
-            Está em promoção? {promocaoProdutos[c]}
-            true = está em promoção
-            false = não está em promoção
+            Preço: R${precoProdutos[c].ToString("N2")}
+            Está em promoção? {classificar}
             ");
 
             c++;
         }
+
+        
     }
 }

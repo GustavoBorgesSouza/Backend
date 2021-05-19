@@ -118,6 +118,14 @@ namespace SistemaProdutos
             c++;
         }
 
+        static int AdicionarEspacos(int tamanhoArray){
+            Console.WriteLine("Quantos espaços vc quer adicionar?");
+            int adicionar = int.Parse(Console.ReadLine());
+            tamanhoArray = tamanhoArray + adicionar;
+
+            return tamanhoArray;
+        } 
+
         
     }
 }

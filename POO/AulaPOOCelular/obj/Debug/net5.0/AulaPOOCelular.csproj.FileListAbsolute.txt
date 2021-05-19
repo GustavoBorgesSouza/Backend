@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.genruntimeconfig.cache

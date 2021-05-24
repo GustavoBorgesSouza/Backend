@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\ref\PagamentoEcommerce.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\bin\Debug\net5.0\PagamentoEcommerce.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\ref\PagamentoEcommerce.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\PagamentoEcommerce\obj\Debug\net5.0\PagamentoEcommerce.genruntimeconfig.cache

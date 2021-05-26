@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\ref\JogadoresFutebol.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\bin\Debug\net5.0\JogadoresFutebol.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\ref\JogadoresFutebol.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\JogadoresFutebol\obj\Debug\net5.0\JogadoresFutebol.genruntimeconfig.cache

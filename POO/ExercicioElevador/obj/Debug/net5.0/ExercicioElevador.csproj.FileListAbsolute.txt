@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ref\ExercicioElevador.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\bin\Debug\net5.0\ExercicioElevador.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ref\ExercicioElevador.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\ExercicioElevador\obj\Debug\net5.0\ExercicioElevador.genruntimeconfig.cache

@@ -5,7 +5,7 @@ namespace JogadoresFutebol.Classes
         public override int CalcularAposentadoria()
         {
             int tempoFalta;
-            if (idade < 40)
+            if (this.idade < 40)
             {
                 tempoFalta = 40 - idade;
             } else{

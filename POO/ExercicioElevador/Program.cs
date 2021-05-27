@@ -145,7 +145,7 @@ namespace ExercicioElevador
                     break;
 
                 default:
-                Console.WriteLine("Essa não é uma opção de elevador válida, tchau");
+                Console.WriteLine("Não temos essa opção de elevador nesse edificio, talvez você deva ir a outro, desculpe lhe causar incomodo");
                 elevadorValido = false;
                     break;
             }

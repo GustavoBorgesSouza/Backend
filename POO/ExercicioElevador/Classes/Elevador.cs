@@ -11,7 +11,7 @@ namespace ExercicioElevador.Classes
 
         public void Inicializar(){ //inicia o elevado dando o total de andares, capacidade, andar terreo e 0 pessoas
             andarAtual = 0;
-            totalAndares = 2;
+            totalAndares = 20;
             capacidade = 2;
             quantiaPessoas = 0;
         }
@@ -45,23 +45,38 @@ namespace ExercicioElevador.Classes
         }
 
         public int Subir(){
-            if(andarAtual < totalAndares){
-                Console.WriteLine($"Estavamos no {andarAtual} andar, subimos 1 e agora estamos no {andarAtual + 1} andar");
-                andarAtual = andarAtual + 1;
+            Console.WriteLine("Para qual andar você quer ir?");
+            int andarIr = int.Parse(Console.ReadLine());
+
+            if(andarIr < andarAtual){
+                Console.WriteLine("Não dá para subir para baixo!");
+
+            } else if (andarIr <= totalAndares) {
+
+                Console.WriteLine($"Estavamos no {andarAtual} andar, subimos e agora estamos no {andarIr} andar");
+                andarAtual = andarIr;
             } else{
-                Console.WriteLine("Já estamos no último andar");
+
+                Console.WriteLine("Não é possível ir para esse andar!");
             }
 
             return andarAtual;
         }
 
         public int Descer(){
-            if (andarAtual > 0)
-            {
-                Console.WriteLine($"Estavamos no {andarAtual} andar, descemos 1 e agora estamos no {andarAtual - 1} andar");
-                andarAtual = andarAtual - 1;
-            } else{
-                Console.WriteLine("Já estamos no terreo");
+            Console.WriteLine("Para qual andar você quer ir?");
+            int andarIr = int.Parse(Console.ReadLine());
+
+            if(andarIr > andarAtual){
+                Console.WriteLine("Não dá para descer para cima!");
+
+            } else if (andarIr <= totalAndares && andarIr >= 0) {    
+
+                Console.WriteLine($"Estavamos no {andarAtual} andar, descemos e agora estamos no {andarIr} andar");
+                andarAtual = andarIr;
+            } else {
+                
+                Console.WriteLine("Não é possível ir para esse andar!");
             }
 
             return andarAtual;

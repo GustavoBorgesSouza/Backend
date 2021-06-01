@@ -10,19 +10,24 @@ namespace ExercicioElevador
             bool continuarB = false;
             bool elevadorValido = false;
 
-
-
             do
             {
 
             Console.WriteLine("Você deseja usar qual elevador? SO para social e SE par serviço");
             string elevador = Console.ReadLine().ToUpper();
 
+            Console.WriteLine("qual a capacidade do elevador?");
+            int capacidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("quantos andares tem o elevador?");
+            int totalAndares = int.Parse(Console.ReadLine());
+            
+
             switch (elevador)
             {
                 case "SO":
                     Social s = new Social();
-                    s.Inicializar();
+                    s.Inicializar(capacidade, totalAndares);
                     elevadorValido = true;
 
                     do
@@ -79,7 +84,8 @@ namespace ExercicioElevador
 
                 case "SE":
                     Servico se = new Servico();
-                    se.Inicializar();
+
+                    se.Inicializar(2, 20);
                     elevadorValido = true;
 
                     do

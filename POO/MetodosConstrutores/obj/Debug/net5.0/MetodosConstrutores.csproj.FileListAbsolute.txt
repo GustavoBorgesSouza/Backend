@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\ref\MetodosConstrutores.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\bin\Debug\net5.0\MetodosConstrutores.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\ref\MetodosConstrutores.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\MetodosConstrutores\obj\Debug\net5.0\MetodosConstrutores.genruntimeconfig.cache

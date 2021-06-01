@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\ref\Estaticos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\bin\Debug\net5.0\Estaticos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\ref\Estaticos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\Estaticos\obj\Debug\net5.0\Estaticos.genruntimeconfig.cache

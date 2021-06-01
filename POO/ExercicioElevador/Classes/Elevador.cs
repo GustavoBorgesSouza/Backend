@@ -9,11 +9,11 @@ namespace ExercicioElevador.Classes
         protected int capacidade;
         protected int quantiaPessoas;
 
-        public void Inicializar(){ //inicia o elevado dando o total de andares, capacidade, andar terreo e 0 pessoas
+        public void Inicializar(int capacidadeD, int totalAndaresD){ //inicia o elevado dando o total de andares, capacidade, andar terreo e 0 pessoas
             andarAtual = 0;
-            totalAndares = 20;
-            capacidade = 2;
             quantiaPessoas = 0;
+            capacidade = capacidadeD;
+            totalAndares = totalAndaresD;
         }
 
         public virtual string Mostrar(){

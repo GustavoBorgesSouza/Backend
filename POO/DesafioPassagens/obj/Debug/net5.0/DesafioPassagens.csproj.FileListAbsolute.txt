@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.exe
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.deps.json
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.dll
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\ref\DesafioPassagens.dll
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\bin\Debug\net5.0\DesafioPassagens.pdb
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.dll
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\ref\DesafioPassagens.dll
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.pdb
+C:\Users\dev\Desktop\Backend\POO\DesafioPassagens\obj\Debug\net5.0\DesafioPassagens.genruntimeconfig.cache

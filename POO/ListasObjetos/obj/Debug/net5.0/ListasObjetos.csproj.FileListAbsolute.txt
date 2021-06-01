@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.exe
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.deps.json
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.dll
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ref\ListasObjetos.dll
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\bin\Debug\net5.0\ListasObjetos.pdb
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.dll
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ref\ListasObjetos.dll
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.pdb
+C:\Users\dev\Desktop\Backend\POO\ListasObjetos\obj\Debug\net5.0\ListasObjetos.genruntimeconfig.cache

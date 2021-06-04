@@ -1,0 +1,16 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.runtimeconfig.dev.json
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\ref\CarrinhoCompras.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\bin\Debug\net5.0\CarrinhoCompras.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\ref\CarrinhoCompras.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\backend\POO\CarrinhoCompras\obj\Debug\net5.0\CarrinhoCompras.genruntimeconfig.cache
